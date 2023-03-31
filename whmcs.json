@@ -1,0 +1,31 @@
+{
+  "schema": "1.0.0",
+  "type": "whmcs-gateways",
+  "name": "bkash-tokenized-checkout",
+  "license": "MIT",
+  "category": "gateway",
+  "description": {
+    "name": "bKash Merchant Tokenized Checkout Payment Gateway",
+    "tagline": "Easily collect your payment by using bKash merchant checkout in your WHMCS Billing.",
+    "long": "",
+    "features": [
+      "WHMCS 8 Support"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://aminul.net/whmcs/bkash-tokenized-checkout-for-whmcs/",
+    "learn_more": "https://aminul.net/whmcs/bkash-tokenized--checkout-for-whmcs/",
+    "email": "me@aminul.net",
+    "support_url": "https://aminul.net/whmcs/bkash-tokenized-checkout-for-whmcs/",
+    "docs_url": "https://aminul.net/whmcs/bkash-tokenized-checkout-for-whmcs/"
+  },
+  "authors": [
+    {
+      "name": "Aminul Islam",
+      "homepage": "https://aminul.net/"
+    }
+  ]
+}
