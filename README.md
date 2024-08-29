@@ -33,3 +33,5 @@ Support all major WHMCS version including version 6, 7 & 8.
 
 - How can I get the API credential?
     - Please sign up with your merchant account here [here](https://pgw-integration.bkash.com/).
+- I'm getting "Invalid response from the bKash Server"
+    - Please make sure your php is allowing `allow_url_fopen`. The value should be: `allow_url_fopen = On`. Please check your php.ini or `phpinfo()`
